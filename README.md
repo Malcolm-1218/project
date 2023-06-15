@@ -1,6 +1,6 @@
-# Descriptioin
+# Getting Started with Create React App
 
-This is a web application built with React and TypeScript, and utilizes Firebase for backend services. It provides user authentication, firestore database, and hosting.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
